@@ -46,6 +46,6 @@ Go to the root directory of your local repository
 
 ``http://localhost:3000/``
 
-# bahm !
+## bahm !
 
 ``Start coding ``
