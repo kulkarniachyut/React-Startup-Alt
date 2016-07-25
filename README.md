@@ -30,7 +30,7 @@ Go to the root directory of your local repository
 
 ``sudo npm install -g nodemon``
 
-## Install Gulp Globally (Skip this step if Gulp is installed already !) :
+## Install Gulp Globally ( ### Skip this step if Gulp is installed already !) :
 
 ``npm install --global gulp-cli``
 
