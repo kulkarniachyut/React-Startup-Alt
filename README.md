@@ -2,44 +2,45 @@
 
 A React and Nodejs Website using Alt architecture
 
-# Install Nodejs on Your local machine
+## Install Nodejs on Your local machine :
 
 https://nodejs.org/en/download/
 
-# Setup using Github
+## Setup using Github :
 
 Download the repository to your local machine
 
 ``git clone https://github.com/kulkarniachyut/React-Startup-Alt.git``
 
-# Setting up your repository
+## Setting up your repository :
 
 Go to the root directory of your local repository
 
 ``cd React-Startup-Alt``
 
-# Install Node modules
+## Install Node modules :
+
 ``npm install``
 
-# Install Bower Components
+## Install Bower Components :
 
 ``bower install``
 
-#Install nodemon Golbally
+## Install nodemon Golbally :
 
 ``sudo npm install -g nodemon``
 
-# Install Gulp Globally (Skip this step if Gulp is installed already !)
+## Install Gulp Globally (Skip this step if Gulp is installed already !) :
 
 ``npm install --global gulp-cli``
 
 
-# To start the server
+## To start the server :
 
 On one terminal do ``gulp``
 One another terminal do ``nodemon``
 
-# To Check if server is started, in your browser ,
+## To Check if server is started, in your browser :
 
 ``http://localhost:3000/``
 
