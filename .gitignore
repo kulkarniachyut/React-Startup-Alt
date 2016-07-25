@@ -1,0 +1,4 @@
+#Do not install Node modules and Bower Components directory
+
+node_modules/*
+bower_components/*
