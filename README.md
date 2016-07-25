@@ -10,7 +10,7 @@ https://nodejs.org/en/download/
 
 Download the repository to your local machine
 
-``git clone https://github.com/kulkarniachyut/React-Startup-Alt.git``
+``git clone git@github.com:kulkarniachyut/React-Startup-Alt.git``
 
 ## Setting up your repository :
 
