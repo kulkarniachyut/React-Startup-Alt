@@ -1,6 +1,6 @@
 # React-Startup-Alt
-Using Alt
-`Using Alt``
+
+`Using Alt`
 
 # Install Nodejs on Your local machine
 
