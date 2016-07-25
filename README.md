@@ -37,8 +37,8 @@ Go to the root directory of your local repository
 
 ## To start the server :
 
-On one terminal do ``gulp``
-One another terminal do ``nodemon``
+  ### Start Gulp : On one terminal do ``gulp``
+  ### Start Server : One another terminal do ``nodemon``
 
 ## To Check if server is started, in your browser :
 
